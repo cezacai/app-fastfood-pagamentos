@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: appfastfood-pagamentos
-          image: caikemury/app-fastfood-pagamentos.jar:latest
+          image: cezacai/app-fastfood-pagamentos:latest
           ports:
             - containerPort: 8080
           readinessProbe:
