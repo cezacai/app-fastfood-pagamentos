@@ -5,10 +5,11 @@ Seja bem vindo(a)!
 
 ## Desenvolvedores
  
- - [Caio Rodrigues](https://github.com/caikeburgos)
- - [Jonas Monteiro](https://github.com/pedroph23)
- - [Jose Victor Avanco](https://github.com/mvgv)
- - [Israel Sifoleli](https://github.com/xLinaMeloox)
+ - [Caio Rodrigues]
+ - [Jonas Monteiro]
+ - [Jose Victor]
+ - [Israel Sifoleli]
+ - [Raul Munhoz]
 
     
 ## Ferramentas
