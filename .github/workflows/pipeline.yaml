@@ -94,7 +94,7 @@ jobs:
         SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
       run: |
         cd app
-        mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=mvgv_app-fastfood-pagamentos
+        mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar -Dsonar.projectKey=cezacai_app-fastfood-pagamentos2
 
   publish-docker:
 
@@ -118,8 +118,8 @@ jobs:
 
       - name: DOCKER BUILD AND PUSH
         run: |
-          docker build -t caikemury/app-fastfood-pagamentos.jar:latest .
-          docker push caikemury/app-fastfood-pagamentos.jar:latest
+          docker build -t cezacai7310/app-fastfood-pagamento
+          docker push cezacai7310/app-fastfood-pagamento
 
   deploy-eks:
     runs-on: ubuntu-latest
