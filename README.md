@@ -5,10 +5,10 @@ Seja bem vindo(a)!
 
 ## Desenvolvedores
  
- - [Caike Burgos](https://github.com/caikeburgos)
- - [Pedro Ramalho](https://github.com/pedroph23)
- - [Marcus Gomes](https://github.com/mvgv)
- - [Maria Eulina Melo](https://github.com/xLinaMeloox)
+ - [Caio Rodrigues](https://github.com/caikeburgos)
+ - [Jonas Monteiro](https://github.com/pedroph23)
+ - [Jose Victor Avanco](https://github.com/mvgv)
+ - [Israel Sifoleli](https://github.com/xLinaMeloox)
 
     
 ## Ferramentas
